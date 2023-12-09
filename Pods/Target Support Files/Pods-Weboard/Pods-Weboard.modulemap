@@ -1,0 +1,6 @@
+framework module Pods_Weboard {
+  umbrella header "Pods-Weboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
